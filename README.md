@@ -1,0 +1,2 @@
+# Lab-3-ML-Exploratory-Data-Analysis-of-Real-Estate-Prices-Using-Matplotlib-and-Seaborn
+This lab analyzes a real estate dataset containing transaction dates, house age, MRT distance, nearby convenience stores, location, and unit price. Using Matplotlib and Seaborn, I performed exploratory data analysis through scatter plots, histograms, boxplots, pairplots, and a correlation heatmap to examine relationships affecting house prices.
