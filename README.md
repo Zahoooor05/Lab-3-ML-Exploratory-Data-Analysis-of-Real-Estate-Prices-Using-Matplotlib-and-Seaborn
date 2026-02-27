@@ -62,10 +62,3 @@ The target variable is **House price of unit area**.
 - More nearby convenience stores tend to increase property value.  
 - Some numerical features show moderate correlation with price.  
 
----
-
-## ▶️ How to Run
-
-1. Install required libraries:
-```bash
-pip install pandas numpy matplotlib seaborn
